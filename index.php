@@ -1,5 +1,5 @@
 <?php
 
-echo "Roger Oriol";
+echo "Roger Oriol - Dijous 8";
 
 ?>
